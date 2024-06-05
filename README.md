@@ -14,3 +14,5 @@ deno task start
 ```
 
 This will watch the project directory and restart as necessary.
+
+Login con cookies JWT y a demas un poco de tipado
